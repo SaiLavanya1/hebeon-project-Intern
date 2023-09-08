@@ -1,2 +1,2 @@
-Designed and developed a web application to manage blood donation using an online management system. This application helps in tracking and searching for blood donors easily. It maintains information
-related to blood donors.
+Built a machine learning model that will predict the salary of an employee based on their experience.
+We used a regression algorithm for building this model. Used Tableau for data visualization.
